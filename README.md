@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Przemysław
-- 🌱 I’m currently learning OpenGL
+- 👋 Hi, I’m Przemysław a.k.a. Przemysław :)
+- 🌱 I’m currently taking care of my young forest
 - 💞️ Please see my CV https://github.com/przemastro/cv 
 - 📫 How to reach me przemyslaw.jagodzinski84@gmail.com
 
